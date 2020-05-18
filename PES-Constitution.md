@@ -1,4 +1,4 @@
-**MVP - v.04_DRAFT**
+**MVP - v.04**
 # **Purpose Ecosystem Constitution**
 
 ## Article 1: Membership
