@@ -1,5 +1,5 @@
-### MVP of a Purpose Ecosystem - v.04_DRAFT
-# **Constitution**
+**MVP - v.04_DRAFT**
+# **Purpose Ecosystem Constitution**
 
 ## Article 1: Membership
 Organizations (incl. self-employed people) committed to serve their own evolutionary purpose become members of the Purpose Ecosystem by collaborating in mutualistic partnerships according to the terms of this constitution.
